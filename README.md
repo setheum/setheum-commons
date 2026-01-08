@@ -1,4 +1,4 @@
-# setheum-commons
+# setheum-commons (OUTDATED! - NEEDS UP TO DATE INFO!)
 
 A Collection of resources to get started for developing the Setheum ecosystem, showcases the Tech Stack used in Setheum.
 
